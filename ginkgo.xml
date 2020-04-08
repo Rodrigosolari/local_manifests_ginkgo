@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/xiaomi/ginkgo" name="PotatoDevices/device_xiaomi_ginkgo" remote="github" revision="baked-release" />
+    <!--
+    <project path="device/xiaomi/ginkgo" name="Xiaomi-trinket-dev/android_device_xiaomi_ginkgo" remote="github" revision="lineage-16.0" />
+    <project path="device/xiaomi/sm6125-common" name="Xiaomi-trinket-dev/android_device_xiaomi_sm6125-common" remote="github" revision="lineage-16.0" />
+    -->
+    <project path="kernel/xiaomi/ginkgo" name="PotatoDevices/kernel_xiaomi_ginkgo" remote="github" revision="baked-release" />
+    <priject path="vendor/xiaomi/ginkgo" name="PotatoDevices/vendor_xiaomi_ginkgo" remote="github" revision="baked-release" />
+    <!--
+    <project path="kernel/xiaomi/sm6125" name="Xiaomi-trinket-dev/android_kernel_xiaomi_sm6125" remote="github" revision="lineage-16.0" />
+  
+    <project path="kernel/xiaomi/ginkgo" name="AndroidBlobs/kernel_xiaomi_ginkgo" remote="github" revision="release-LA.UM.7.11.r1-02700-NICOBAR.0" />
+    <project path="vendor/xiaomi/ginkgo" name="AndroidBlobs/vendor_xiaomi_ginkgo" remote="github" revision="ginkgo-user-9-PKQ1.190616.001-V10.3.3.0.PCOINXM-release-keys" />
+  
+    <project path="vendor/xiaomi/sm6125-common" name="Xiaomi-trinket-dev/vendor_xiaomi_sm6125-common" remote="github" revision="lineage-16.0" />
+    -->
+    <project path="hybris/hybris-boot" name="Rodrigosolari/hybris-boot" remote="github" revision="master" />
+    <project path="hybris/droid-configs" name="Rodrigosolari/droid-config-ginkgo" remote="github" revision="master" />
+    <project path="hybris/droid-hal-version" name="Rodrigosolari/droid-hal-version-ginkgo" remote="github" revision="master" />
+    <project path="hybris/droid-hal" name="Rodrigosolari/droid-hal-ginkgo" remote="github" revision="master" />
+</manifest>
