@@ -18,6 +18,7 @@
     <project path="hybris/hybris-boot" name="Rodrigosolari/hybris-boot" remote="github" revision="master" />
     <project path="hybris/droid-configs" name="Rodrigosolari/droid-config-ginkgo" remote="github" revision="master" />
     <project path="hybris/droid-hal-version" name="Rodrigosolari/droid-hal-version-ginkgo" remote="github" revision="master" />
-    <project path="hybris/droid-hal" name="Rodrigosolari/droid-hal-ginkgo" remote="github" revision="master" />
+    <project path="rpm" name="Rodrigosolari/droid-hal-ginkgo" remote="github" revision="master" />
+    <project path="rpm/dhd" name="mer-hybris/droid-hal-device" remote="github" revision="master" />
     <project path="hybris/libhybris" name="mer-hybris/libhybris" remote="github" revision="master" />
 </manifest>
