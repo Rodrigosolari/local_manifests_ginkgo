@@ -4,13 +4,13 @@
     <!--Repositories to remove-->
     <remove-project name="mer-hybris/hybris-boot" />
     <!--Repositories to add-->    
-    <project path="device/xiaomi/ginkgo" name="Rodrigosolari/device_xiaomi_ginkgo" remote="github" revision="baked-release" />
+    <project path="device/xiaomi/ginkgo" name="rodrigosolari/device_xiaomi_ginkgo" remote="github" revision="baked-release" />
     <!--
     <project path="device/xiaomi/ginkgo" name="Xiaomi-trinket-dev/android_device_xiaomi_ginkgo" remote="github" revision="lineage-16.0" />
     <project path="device/xiaomi/sm6125-common" name="Xiaomi-trinket-dev/android_device_xiaomi_sm6125-common" remote="github" revision="lineage-16.0" />
     -->
-    <project path="kernel/xiaomi/ginkgo" name="Rodrigosolari/kernel_xiaomi_ginkgo" remote="github" revision="master" />
-    <priject path="vendor/xiaomi/ginkgo" name="Rodrigosolari/vendor_xiaomi_ginkgo" remote="github" revision="baked-release" />
+    <project path="kernel/xiaomi/ginkgo" name="rodrigosolari/kernel_xiaomi_ginkgo" remote="github" revision="master" />
+    <priject path="vendor/xiaomi/ginkgo" name="rodrigosolari/vendor_xiaomi_ginkgo" remote="github" revision="baked-release" />
     <!--
     <project path="kernel/xiaomi/sm6125" name="Xiaomi-trinket-dev/android_kernel_xiaomi_sm6125" remote="github" revision="lineage-16.0" />
   
@@ -19,11 +19,14 @@
   
     <project path="vendor/xiaomi/sm6125-common" name="Xiaomi-trinket-dev/vendor_xiaomi_sm6125-common" remote="github" revision="lineage-16.0" />
     -->
-    <project path="hybris/hybris-boot" name="Rodrigosolari/hybris-boot" remote="github" revision="master" />
-    <project path="hybris/droid-configs" name="Rodrigosolari/droid-config-ginkgo" remote="github" revision="master" />
-    <project path="hybris/droid-hal-version" name="Rodrigosolari/droid-hal-version-ginkgo" remote="github" revision="master" />
+    <project path="hybris/hybris-boot" name="rodrigosolari/hybris-boot" remote="github" revision="master" />
+    <project path="hybris/droid-configs" name="rodrigosolari/droid-config-ginkgo" remote="github" revision="master" />
+    <project path="hybris/droid-hal-version" name="rodrigosolari/droid-hal-version-ginkgo" remote="github" revision="master" />
     <project path="rpm" name="Rodrigosolari/droid-hal-ginkgo" remote="github" revision="master" />
     <project path="rpm/dhd" name="mer-hybris/droid-hal-device" remote="github" revision="master" />
+    <!--
     <project path="hybris/libhybris" name="mer-hybris/libhybris" remote="github" revision="master" />
+    -->
+    <project path="external/libhybris" name="mer-hybris/libhybris" remote="github" revision="master" />
    
 </manifest>
