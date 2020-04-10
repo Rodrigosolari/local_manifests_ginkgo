@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    
+    <!--Repositories to remove-->
+    <remove-project name="hybris/hybris-boot" />
+    <!--Repositories to add-->    
     <project path="device/xiaomi/ginkgo" name="Rodrigosolari/device_xiaomi_ginkgo" remote="github" revision="baked-release" />
     <!--
     <project path="device/xiaomi/ginkgo" name="Xiaomi-trinket-dev/android_device_xiaomi_ginkgo" remote="github" revision="lineage-16.0" />
@@ -21,4 +25,5 @@
     <project path="rpm" name="Rodrigosolari/droid-hal-ginkgo" remote="github" revision="master" />
     <project path="rpm/dhd" name="mer-hybris/droid-hal-device" remote="github" revision="master" />
     <project path="hybris/libhybris" name="mer-hybris/libhybris" remote="github" revision="master" />
+   
 </manifest>
