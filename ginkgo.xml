@@ -2,7 +2,7 @@
 <manifest>
     
     <!--Repositories to remove-->
-    <remove-project name="hybris/hybris-boot" />
+    <remove-project name="mer-hybris/hybris-boot" />
     <!--Repositories to add-->    
     <project path="device/xiaomi/ginkgo" name="Rodrigosolari/device_xiaomi_ginkgo" remote="github" revision="baked-release" />
     <!--
