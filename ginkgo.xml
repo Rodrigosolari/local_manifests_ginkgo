@@ -9,7 +9,7 @@
     <project path="device/xiaomi/ginkgo" name="Xiaomi-trinket-dev/android_device_xiaomi_ginkgo" remote="github" revision="lineage-16.0" />
     <project path="device/xiaomi/sm6125-common" name="Xiaomi-trinket-dev/android_device_xiaomi_sm6125-common" remote="github" revision="lineage-16.0" />
     -->
-    <project path="kernel/xiaomi/ginkgo" name="Rodrigosolari/kernel_xiaomi_ginkgo" remote="github" />
+    <project path="kernel/xiaomi/ginkgo" name="Rodrigosolari/kernel_xiaomi_ginkgo" remote="github" revision="master" />
     <priject path="vendor/xiaomi/ginkgo" name="Rodrigosolari/vendor_xiaomi_ginkgo" remote="github" revision="baked-release" />
     <!--
     <project path="kernel/xiaomi/sm6125" name="Xiaomi-trinket-dev/android_kernel_xiaomi_sm6125" remote="github" revision="lineage-16.0" />
